@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-21T22:53:14 IST" name="Default suite" finished-at="2021-02-21T22:53:29 IST" duration-ms="15224">
+    <groups>
+    </groups>
+    <test started-at="2021-02-21T22:53:14 IST" name="Default test" finished-at="2021-02-21T22:53:29 IST" duration-ms="15224">
+      <class name="com.ecommercetest.SearchIphoneTest">
+        <test-method is-config="true" signature="configureBeforeClass()[pri:0, instance:com.ecommercetest.SearchIphoneTest@2accdbb5]" started-at="2021-02-21T22:53:14 IST" name="configureBeforeClass" finished-at="2021-02-21T22:53:22 IST" duration-ms="8464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBeforeClass -->
+        <test-method signature="iphonesearch()[pri:0, instance:com.ecommercetest.SearchIphoneTest@2accdbb5]" started-at="2021-02-21T22:53:22 IST" name="iphonesearch" finished-at="2021-02-21T22:53:29 IST" duration-ms="6441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iphonesearch -->
+        <test-method is-config="true" signature="configureAfterClass()[pri:0, instance:com.ecommercetest.SearchIphoneTest@2accdbb5]" started-at="2021-02-21T22:53:29 IST" name="configureAfterClass" finished-at="2021-02-21T22:53:29 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAfterClass -->
+      </class> <!-- com.ecommercetest.SearchIphoneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

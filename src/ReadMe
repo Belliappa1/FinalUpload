@@ -1,0 +1,16 @@
+
+The project is FlipkartProject. This is a maven project where are all the dependencies are added through pom.xml file. I have used hybrid framework here which consists of Generic libraries placed under src/main/java within the package com.ecommerce.commonutils which consists of the following.
+-->Base Class which consists of @Before Class and @After Class. 
+-->File Utility which consists of the java specific generic methods like to fetch data from property file.
+-->IConstant interface will have all the paths which are common throughout the file.
+-->ListenerLib to capture the screenshots of the failed test cases.
+-->WebDriverUtils whcih consists of webdriver specific methods like Action class methods, wait methods, keyboard functionalities.
+
+Object Repository is placed under com.ecommerce.objectrepositorylib which consists of all the elements and buisness libraries implemented using POM desin pattern.
+
+Test Script for Search iphones is present within src/test/java within the package com.ecommercetest.
+
+Test Data folder contains the property file and csv file.
+
+Test-Output will contain the emailable report.
+
